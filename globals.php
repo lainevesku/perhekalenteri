@@ -11,6 +11,9 @@
     "lobster" => array(
       "name" => "Lobster",
       "url"  => "https://fonts.googleapis.com/css2?family=Lobster&display=swap"),
+    "meowscript" => array(
+      "name" => "Meow Script",
+      "url"  => "https://fonts.googleapis.com/css2?family=Meow+Script&display=swap"),
     "pacifico" => array(
       "name" => "Pacifico",
       "url"  => "https://fonts.googleapis.com/css2?family=Pacifico&display=swap"),
